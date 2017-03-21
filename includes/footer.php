@@ -5,7 +5,7 @@
 		<i class="fa fa-phone"></i><a href="tel://+45-57-64-33-44"> +45 57 64 33 44</a>
    </p><br>
    <p>
-    <i class="fa fa-envelope-o"></i> E-mail: <a href="mailto:info@gravenhorst.dk">info@gravenhorst.dk </a>
+    <i class="fa fa-envelope-o"></i> E-mail: <a href="mailto:info@gravenhorst-plast.dk">info@gravenhorst-plast.dk </a>
     og <a href="mailto:info@scankomposit.dk">info@scankomposit.dk </a> 
  	</p>
 </footer>

@@ -560,3 +560,13 @@ footer {
 footer p {
 	font-size: 1.4rem;
  }
+
+ .traf {
+
+   font-size: 25px;
+   font-weight: bold;
+ }
+
+ .fed {
+   font-weight: bold;
+ }

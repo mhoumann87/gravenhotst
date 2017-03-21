@@ -33,10 +33,10 @@
         <img src="./assets/img/graven_logo.png" class="graven" class="logo" alt="Gravenhoste Plast A/S logo">
         <img src="./assets/img/scan_logo.png" class="scan"  class="logo" alt="Scankomposit A/S logo">
         <h1 class="noshow">Gravenhorst og Scankomposit Plast A/S</h1>
-            <section id="tagline"><h2 class="faelles">Blæsestøbte hule emner i plastik &amp; Pressestøbning i SMC glasfiber</h2>
+            <!--<section id="tagline"><h2 class="faelles">Blæsestøbte hule emner i plastik &amp; Pressestøbning i SMC glasfiber</h2>-->
             <h2 class="graven">Blæsestøbte hule emner i plastik</h2>
             <h2 class="scan">Pressestøbning i SMC glasfiber</h2>
-            <p>Vi hjælper med ideer, innovation og produktion af plast- og glasfiberemner</p>
+            <!--<p>Vi hjælper med ideer, innovation og produktion af plast- og glasfiberemner</p>-->
             <h2 class="noshow">Blow molding in plastic. Compression molding in SMC.</h2>
             </section>
     		<section id="telefon"><h2><i class="fa fa-phone"></i>   +45 57 64 33 44</h2></section>

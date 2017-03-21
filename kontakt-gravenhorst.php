@@ -53,9 +53,14 @@ include ('./includes/public-header.php');
           <div class="ejer">
           <div class="direktion">
             <img src="assets/img/susanne.jpg" class="ejer-foto" alt="Foto af Susanne Borggaard">
-          <h4>Susanne Borgaard</h4><br>
+          <h4>Susanne Borggaard</h4><br>
         
-          <p>Direktør for Scankomposit</p>
+          <p>Direktør for Scankomposit</p><br>
+          <p>Cand. Agro.</p><br>
+          <p>Formand for Sektionen for ekstrudering og termoformning</p><br>
+          <p>Særlig fokus på vejen fra produktion til laget.</P><br>
+          <p>Hurtig og effektiv leveringstid</P><br>
+          <p class="fed">Tlf. 22 11 75 45</p>
         
       </div>
 
@@ -63,8 +68,11 @@ include ('./includes/public-header.php');
           <img src="assets/img/rene.jpg" class="ejer-foto" alt="Foto af Rene Borggaard">
             
             <h4>René Borggaard</h4><br>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus tenetur ipsa soluta repellendus nisi ex vero nemo, earum laborum. Sint voluptatem ad eveniet. Reprehenderit dolore, alias at, cumque asperiores nesciunt.</p>
-      
+          <p>Fabrikant og indehaver af Gravenhorst Plast og Scankomposit</p><br>
+          <p> 40 års erfaring i den danske plastbranche</p><br>
+          <p>Specifik viden om plastblæsestøbning af teknisk svære emner.</p><br>
+          <p>Har løst et utal af opgaver for firmaer i ind- og udland</p><br>
+          <p class="fed">Tlf. 40 33 01 06</p>
       </div>
     
       </div>

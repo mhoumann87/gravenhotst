@@ -1,7 +1,7 @@
 <div id="kontakt-form">
       					<div id="aaben">
-       						<h4>Træffetider</h4>
-       						<h6>Der er personale på fabrikken mandag til fredag fra 7.00 til 14.30, uden for disse tiders bedes I sende en besked eller e-mail.</h6> 
+       					
+       						<p class="traf">Der er personale på fabrikken mandag til torsdag fra 7.00 til 15.00, uden for disse tider ring 22117545 eller send en e-mail.</p> 
 								</div>
         
                <h4>Kontakt os</h4>
@@ -36,7 +36,7 @@
             </div>
        
        		<div id="adresse" class="kontaktform" >
-            	<p>Gravenhorst Plast A/S &amp; ScanKomposit A/S<p><br>
+            	<p>Gravenhorst Plast A/S</P><p class=center> &amp;</p><p> ScanKomposit A/S<p><br>
                 <p>Sandbyvej 57</p>
                 <p>4171 Glumsø</p>
        		</div>
