@@ -16,13 +16,12 @@ include ('./includes/public-header.php');
 		
     </aside>
     
-<main>
-<h3>Blæsestøbning i plast og pressestøbning i SMC.</h3>
-  	
+<main>  	
     
 	<section class="fabrik-beskriv">
-		<div class="fotobox">
+		<div class="fotobox" id="graven">
 			<h4>Gravenhorst A/S</h4>
+			<h4>Blæsestøbning i plast og polypropylen.PP</h4>
 			<div class="slider">				
     		<img src="assets/img/test1.jpg" class=slider-foto alt="" />
 			</div>
@@ -41,16 +40,40 @@ include ('./includes/public-header.php');
 						<li><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;At være bindeled mellem kunden og værktøjsmager</li>
 						<li><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;Assistance med udvikling af værktøj</li>
 						<li><i class="fa fa-hand-o-right" aria-hidden="true"></i>&nbsp;Mere end 50 år i branchen</li>
-						</ul>
-						<br>
-							<p><a href="./kontakt-gravenhotst-php">Prøv Os</a></p>						
-						<br>
-						<p><a href="./gravenhorst-plast-as-php">Se Gravenhorsts forskellige produkter</a></p>
+					</ul>
+					<br>
+					<p><a href="./kontakt-gravenhotst-php">Prøv Os</a></p>						
+					<br>
+					<p><a href="./gravenhorst-plast-as-php">Se Gravenhorsts forskellige produkter</a></p>
+					<br><br>
+					<h6>Professionel leverandør af hule emner i plast</h6>
+					<br>
+					<ul>
+						<li>Flasker</li>
+						<li>Dunke</li>
+						<li>Dåser 300ml til 2000ml</li>
+						<li>Køleelementer</li>
+						<li>Kompst beholdere</li>
+						<li>Bælg</li>
+						<li>Benzindunke</li>
+						<li>Sæder og stole</li>
+						<li>Gylleflyder</li>
+						<li>Legetøj</li>
+						<li>Udsugningskanaler</li>
+						<li>Indsamlingsbøtter</li>
+					</ul>
+					<br>
+					<h6>Alle produkter er lette, har enorm styrke og har isolerende egenskaber</h6>
+
+
+
+						
 			</div>
 		</div>
 
-				<div class="fotobox">
+				<div class="fotobox" id="scan">
 			<h4>Scankomposit A/S</h4>
+			<h4>Pressestøbning i SMC</h4>
 			<div class="slider">				
     		<img src="assets/img/test1.jpg" class=slider-foto alt="" />
 			</div>
@@ -72,34 +95,26 @@ include ('./includes/public-header.php');
 							<p><a href="./kontakt-gravenhotst-php">Prøv Os</a></p>						
 						<br>
 						<p><a href="./scankomposit-as-php">Se Scankomposits forskellige produkter</a></p>
+						<br><br>
+						<h6>Vi producerer</h6>
+						<br>
+						<ul>
+							<li>Stole i SMC</li>
+							<li>Lampeskærmme</li>
+							<li>Postkasser</li>
+							<li>Ventiler</li>
+							<li>Skriveplader</li>
+							<li>Brønddæksler</li>
+							<li>Gasskabe</li>
+							<li>Lysamatur til vejbelysning</li>
+						<Ul>
+						<br>
+						<h6>Vores produkter har lang levetid, enorm holdbarhed og tåler ekstrem varme og kulde.</h6> 
 			</div>
 		</div>
 	
 	</section>
-  <article class="fp-beskriv">
-      
-      	<h4>Gravenhorst og Scankomposit</h4><br>
-    		<p>Gravenhorst Plast og Scankomposit har samme ejer men laver noget forskelligt. 2 forskellige plastproduktioner under samme tag i Sandby på Sjælland ca. 7 km fra Ringsted.</p><br>
-				<h6><strong>Alle har set og kender emner lavet hos os!</strong></h6><br>
-				<p>Plast produkter lavet hos os står flere steder i gadebilledet.</p> 
-				<p>De hvide vejpæle – kantmarkeringspælene med refleksbrikker – som står placeret langs stort set hver eneste vej i Danmark.</p> 
-				<p>De røde afmarkeringspæle med sort fod og plastbånd, som ses ved afskærminger af bl.a. vejarbejder vejarbejder og afskæmninger, benzindunke, blandedunke Mix-dunk, beholder af forskellig slags, fodvipper, gyldeflydere, flydere til køleanlæg og vandreservoir mv.</p><br>
-				<h6><strong>Alle emner der er lavet af Gravenhorst Plast.</strong></h6><br>
-				<p>Vi støber på vores maskiner og med vores dygtige faste medarbejderstab mange tusind emner årligt. Alle emner leveres i den aftalte kvalitet og til tiden. Hos os kan du lave en rammeaftale og få leveret når det passer dig</p>
-				<p>Vi producerer til kunder i Danmark Norden og Europa – det kan vi kun fordi vi er en god og stabil samarbejdspartner.</p><br>
-
-				<p>Glasfiberemnerne støbt på Scankomposit’s maskiner har du set som udendørs lamper som bl.a. Københavner Potten, tage til udendørslamperne, design stolen TAC og kaldet The Andersen Chair, KK1 designstolen af Kay Kørbing, emner til industri kunder som indsatser til vandbehandlingsanlæg, forskellige skjold og låg til kabinetter mv.</p><br>
-				<p><a href="./galleri.php">Se vores billeder under Galleri</a></p>
-				<br>
-				<h6><strong>Prøv os</strong></h6><br>
-				<p>Kvalitet og god service er vanskeligt at beskrive. Det skal bevises i praksis, og til syvende og sidst er det vel også et spørgsmål om tillid. Vores filosofi er enkel, vi opbygger et tillidsforhold til vores kunder, med et fleksibelt produktionsapparat samt effektive produktion til gode og konkurrencedygtige priser</p><br>
-
-				<h6><strong>Special opgaver</strong></h6><br>
-				<p>Formblæsning af emballage og tekniske emner er vores speciale, Vi kan derfor tilbyde gennemprøvede konstruktioner og materialesammensætninger. Enhver henvendelse om specialopgaver tager vi som en udfordring, vi laver gerne produkter efter Deres krav og behov. Sagt ubeskedent ” hvis det teknisk kan lade sig gøre, så kan vi med store sandsynlighed også løse opgaven, uanset antal emner”.</p><br>
-				<h6><strong></strong></h6>
-
-     
-  </article> 
+  
 
 </main>
 
