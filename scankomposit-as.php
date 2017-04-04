@@ -26,7 +26,11 @@ include ('./includes/public-header.php');
 		<div class="produkt-text">
 			<h4>Lampeskærm</h4>
 			<br>	
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus exercitationem sunt dolor quibusdam, ab magnam voluptatibus quas officia laudantium nisi, laborum quae cumque aut perferendis labore soluta doloremque unde, quos.</p>
+			<p>Københavner Potten, skærm til lamper i gaderne, lavet i vejrbestandig SMC 
+			glasfiber, holdbart op til 30 år i alt slags vejr fra ekstrem varme til ekstrem 
+			kulde. Et fantastisk kvalitetsprodukt der bla. har hængt i København som 
+			gadebelysning i mere end 30 år. Københavner Potten laves i flere farver men 
+			samme gode kvalitet – danskproduceret.</p>
 		</div>
 	</div>
 
@@ -38,102 +42,96 @@ include ('./includes/public-header.php');
 		<div class="produkt-text">
 			<h4>KK1 Stol</h4>
 			<br>	
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus exercitationem sunt dolor quibusdam, ab magnam voluptatibus quas officia laudantium nisi, laborum quae cumque aut perferendis labore soluta doloremque unde, quos.</p>
+			<p>Stolen er fremstillet i fiberforstærket SMC en komposit med 32 % glasindhold 
+			som giver stabilitet og styrke. Understel er i krom og med stolen følger en 
+			polstret hynde i god dansk kvalitet. Alt fremstillet og produceret i Danmark.</p>
+			<p>KK1 Stolen er oprindeligt designet i 1955 af arkitekt Kay Kørbin</p>
 		</div>
 	</div>
 
 	<div id="ventil-gas-skabe" class="produkt">
 		<div class="produkt-foto-box">
-			<img src="./assets/img/tekniske.jpg" class="produkt-foto" alt="">
+			<img src="./assets/img/gas.jpg" class="produkt-foto" alt="">
 		</div>
 	
 		<div class="produkt-text">
 			<h4>Ventil- og gasskabe</h4>
 			<br>	
-			<p>Vi laver alt indenfor blæsestøbte emner.</p><br>  
-				<ul>
-					<li>Køleelement</li>
-					<li>Kompost</li>
-					<li>Bælg</li>
-					<li>Benzin Tank</li>
-					<li>Sæde</li>
-					<li>Genoplivningsdukke</li>
-					<li>Vandlås</li>
-					<li>Legetøj</li>
-					<li>Møntbøsse</li>
-				</ul><br>
-				<p>Vi hjælpe gerne til med kunde præet emner efter tegning som tilpasset til blæsestøbning.</p>
+			<p>Fremstillet i SMC kompositmateriale som er særdeles vejrbestandigt.</p>
+			<p>Slagfast og særdeles holdbart.</p>
+			<p>Alle dele incl. de galvaniserede aluminium bøjler der medfølger er fremstillet i Danmark</p>
+
 		</div>
 	</div>
 
 	<div id="postkasse" class="produkt">
 		<div class="produkt-foto-box">
-			<img src="./assets/img/vejpael.jpg" class="produkt-foto" alt="">
+			<img src="./assets/img/postkasse.jpg" class="produkt-foto" alt="">
 		</div>
 	
 		<div class="produkt-text">
 			<h4>Postkasse</h4>
 			<br>	
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus exercitationem sunt dolor quibusdam, ab magnam voluptatibus quas officia laudantium nisi, laborum quae cumque aut perferendis labore soluta doloremque unde, quos.</p>
+			<p>Fremstillet i glasfiber SMC fiberkomposit med 23 % glasindhold. Farven er lys grå 
+			RAL 7035 og tåler sol, frost og saltvand. Særdeles holdbar og vi har postkasser som 
+			disse siddende rundt omkring i Danmark i mere en 30 år. Medfølger 1 stk. Ruko lås med 
+			2 nøgler</p>
 		</div>
 	</div>
 
 	<div id="vejbelysning" class="produkt">
 		<div class="produkt-foto-box">
-			<img src="./assets/img/emballage.jpg" class="produkt-foto" alt="">
+			<img src="./assets/img/udelampe.jpg" class="produkt-foto" alt="">
 		</div>
 	
 		<div class="produkt-text">
 			<h4>Vejbelysning</h4>
 			<br>	
-			<p>Gravenhorst Plast A/S producerer, og lagerfører en lang række emballageprodukter fra 125ml flasker til 27,5l dunke.</p><br> 
-			<p>Emballageprodukterne er primært fremstillet til industri- og laboratoriebrug, men kan også anvendes i andre områder.</p><br> 
-			<p>Materialerne, som bliver benyttet til emballage er alle fødevaregodkendte og flere af produkterne er U/N-godkendte til kemikalier.</p><br>
+
 
 		</div>
 	</div>
 
 	<div id="lysamatur" class="produkt">
 		<div class="produkt-foto-box">
-			<img src="./assets/img/emballage.jpg" class="produkt-foto" alt="">
+			<img src="./assets/img/lysamatur.jpg" class="produkt-foto" alt="">
 		</div>
 	
 		<div class="produkt-text">
 			<h4>Lysamatur</h4>
 			<br>	
-			<p>Gravenhorst Plast A/S producerer, og lagerfører en lang række emballageprodukter fra 125ml flasker til 27,5l dunke.</p><br> 
-			<p>Emballageprodukterne er primært fremstillet til industri- og laboratoriebrug, men kan også anvendes i andre områder.</p><br> 
-			<p>Materialerne, som bliver benyttet til emballage er alle fødevaregodkendte og flere af produkterne er U/N-godkendte til kemikalier.</p><br>
+			<p>Fremstillet i fiberforstærket SMC komposit i flere forskellige størrelser med 
+			diverse længder. Amaturerne kan også presses i en brandhæmmende komposit som 
+			benyttes på skibe mv.</p>
 
 		</div>
 	</div>
 
 	<div id="scankomposit-tekniske-emner" class="produkt">
 		<div class="produkt-foto-box">
-			<img src="./assets/img/emballage.jpg" class="produkt-foto" alt="">
+			<img src="./assets/img/scantek.jpg" class="produkt-foto" alt="">
 		</div>
 	
 		<div class="produkt-text">
 			<h4>Tekniske emner</h4>
 			<br>	
-			<p>Gravenhorst Plast A/S producerer, og lagerfører en lang række emballageprodukter fra 125ml flasker til 27,5l dunke.</p><br> 
-			<p>Emballageprodukterne er primært fremstillet til industri- og laboratoriebrug, men kan også anvendes i andre områder.</p><br> 
-			<p>Materialerne, som bliver benyttet til emballage er alle fødevaregodkendte og flere af produkterne er U/N-godkendte til kemikalier.</p><br>
+			
 
 		</div>
 	</div>
 
 	<div id="bakelit-phenol" class="produkt">
 		<div class="produkt-foto-box">
-			<img src="./assets/img/emballage.jpg" class="produkt-foto" alt="">
+			<img src="./assets/img/bakelit.jpg" class="produkt-foto" alt="">
 		</div>
 	
 		<div class="produkt-text">
 			<h4>Bakelit og Phenol</h4>
 			<br>	
-			<p>Gravenhorst Plast A/S producerer, og lagerfører en lang række emballageprodukter fra 125ml flasker til 27,5l dunke.</p><br> 
-			<p>Emballageprodukterne er primært fremstillet til industri- og laboratoriebrug, men kan også anvendes i andre områder.</p><br> 
-			<p>Materialerne, som bliver benyttet til emballage er alle fødevaregodkendte og flere af produkterne er U/N-godkendte til kemikalier.</p><br>
+			<p>Kontaktorer til styresystemer.</p>
+			<p>Ventildele til vandbehandlingsanlæg</p>
+			<p>Store og små serie produceres<p>
+
 
 		</div>
 	</div>

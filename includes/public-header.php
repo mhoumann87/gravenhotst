@@ -11,6 +11,7 @@
 <meta name="robots" content="noindex, nofollow">
 <meta name="keywords" content="<?php echo $keywords; ?>">
 <meta name="description" content="<?php echo $description; ?>">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="<?php echo $stylesheet; ?>">
 <link rel="stylesheet" type="text/css" href="./assets/font-awesome-4.5.0/css/font-awesome.min.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
