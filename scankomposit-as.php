@@ -42,10 +42,20 @@ include ('./includes/public-header.php');
 		<div class="produkt-text">
 			<h4>KK1 Stol</h4>
 			<br>	
-			<p>Stolen er fremstillet i fiberforstærket SMC en komposit med 32 % glasindhold 
-			som giver stabilitet og styrke. Understel er i krom og med stolen følger en 
-			polstret hynde i god dansk kvalitet. Alt fremstillet og produceret i Danmark.</p>
-			<p>KK1 Stolen er oprindeligt designet i 1955 af arkitekt Kay Kørbin</p>
+			<p>Fremstillet i fiberforstærket SMC.</p>
+			<br>
+			<p>Komposit med 32 % glasindhold.</p>
+			<br>
+			<p>Stabilitet og styrke.</p>
+			<br>
+			<p>Understel er i krom.</p>
+			<br>
+			<p>Polstret hynde i god dansk kvalitet.</p>
+			<br>
+			<p>Alt fremstillet og produceret i Danmark.</p>
+			<br>
+			<br>
+			<p>KK1 Stolen er oprindeligt designet i 1955 af arkitekt Kay Kørbing</p>
 		</div>
 	</div>
 
@@ -129,7 +139,9 @@ include ('./includes/public-header.php');
 			<h4>Bakelit og Phenol</h4>
 			<br>	
 			<p>Kontaktorer til styresystemer.</p>
+			<br>
 			<p>Ventildele til vandbehandlingsanlæg</p>
+			<br>
 			<p>Store og små serie produceres<p>
 
 

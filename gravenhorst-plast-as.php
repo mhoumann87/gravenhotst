@@ -26,7 +26,7 @@ include ('./includes/public-header.php');
 		<div class="produkt-text">
 			<h4>Gylle Flyder</h4>
 			<br>	
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus exercitationem sunt dolor quibusdam, ab magnam voluptatibus quas officia laudantium nisi, laborum quae cumque aut perferendis labore soluta doloremque unde, quos.</p>
+			<p></p>
 		</div>
 	</div>
 
@@ -38,7 +38,7 @@ include ('./includes/public-header.php');
 		<div class="produkt-text">
 			<h4>Stole</h4>
 			<br>	
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus exercitationem sunt dolor quibusdam, ab magnam voluptatibus quas officia laudantium nisi, laborum quae cumque aut perferendis labore soluta doloremque unde, quos.</p>
+			<p></p>
 		</div>
 	</div>
 
@@ -74,7 +74,7 @@ include ('./includes/public-header.php');
 		<div class="produkt-text">
 			<h4>Kantpæle</h4>
 			<br>	
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus exercitationem sunt dolor quibusdam, ab magnam voluptatibus quas officia laudantium nisi, laborum quae cumque aut perferendis labore soluta doloremque unde, quos.</p>
+			<p></p>
 		</div>
 	</div>
 
