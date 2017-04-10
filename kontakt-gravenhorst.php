@@ -78,6 +78,23 @@ include ('./includes/public-header.php');
       </div>
     
     </section>
+
+      <section>
+       <div class="fabrikBox">
+           <h4>Fabrikken</h4>
+            <div class="fabrikContainer">
+                <div class="fabrikFotoBox">
+                    <img src="assets/img/fabrik.jpg" class="fabrikFoto" alt="Fabrikken Sandbyvej 57 4170 Glumsø">
+                </div>
+                <div class="fabrikFotoBox">
+                    <img src="assets/img/maskiner.jpg" class="fabrikFoto" alt="Bllede af maskiner">
+                </div>
+                <div class="fabrikFotoBox">
+                    <img src="assets/img/fabrik2.jpg" class="fabrikFoto" alt="Fabrikken Sandbyvej 57 4170 Glumsø">
+                </div>
+            </div>
+       </div>
+      </section>
   </main>
 
 

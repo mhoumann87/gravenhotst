@@ -566,18 +566,50 @@ footer p {
 
  .traf {
 
-   font-size: 25px;
-   font-weight: bold;
- }
+     font-size: 25px;
+     font-weight: bold;
+   }
 
- .fed {
-   font-weight: bold;
- }
+.fed {
+  font-weight: bold;
+}
 
- #graven {
-   background-color: #E5E5FF;
- }
+#graven {
+  background-color: #E5E5FF;
+}
 
- #scan {
-   background-color: #C3E8C8;
- }
+#scan {
+  background-color: #C3E8C8;
+}
+
+.fabrikBox {
+  width: 100%;
+
+}
+
+.fabrikContainer {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.fabrikFotoBox {
+  width: 32%;
+  background-color: #F0EFEF;
+  -webkit-box-shadow:  6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow:  6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  box-shadow:  6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  margin-right: .850rem;
+  padding-bottom: .650rem;
+  padding-top: .350rem;
+  padding-right: .350rem;
+}
+
+.fabrikFoto {
+  width: 100%;
+  height: auto;
+}
