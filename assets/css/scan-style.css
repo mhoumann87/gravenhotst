@@ -514,16 +514,10 @@ footer p {
 
   font-size: 25px;
   font-weight: bold;
+  text-align: center;
 }
 
 .fed {
   font-weight: bold;
 }
 
-#graven {
-  background-color: #E5E5FF;
-}
-
-#scan {
-  background-color: #C3E8C8;
-}

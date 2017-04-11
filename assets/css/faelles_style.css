@@ -575,15 +575,16 @@ footer p {
 }
 
 #graven {
-  background-color: #E5E5FF;
+  background-color: #9999FF;
 }
 
 #scan {
-  background-color: #C3E8C8;
+  background-color: #88D292;
 }
 
 .fabrikBox {
   width: 100%;
+  margin-top: 0.650rem;
 
 }
 
@@ -591,7 +592,7 @@ footer p {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  
+  margin-top: 0.650rem;
 }
 
 .fabrikFotoBox {
@@ -612,4 +613,10 @@ footer p {
 .fabrikFoto {
   width: 100%;
   height: auto;
+}
+
+.videoBox {
+  width: 560px;
+  height: auto;
+  margin: 0.850rem auto;
 }

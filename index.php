@@ -95,7 +95,9 @@ include ('./includes/public-header.php');
 							<p><a href="./kontakt-gravenhotst-php">Prøv Os</a></p>						
 						<br>
 						<p><a href="./scankomposit-as-php">Se Scankomposits forskellige produkter</a></p>
-						<br><br>
+						<div class="videoBox">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYcOmkuj8jo" frameborder="0" allowfullscreen></iframe>
+                        </div>
 						<h6>Vi producerer</h6>
 						<br>
 						<ul>
