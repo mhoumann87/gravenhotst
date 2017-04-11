@@ -8,6 +8,7 @@
     <i class="fa fa-envelope-o"></i> E-mail: <a href="mailto:info@gravenhorst-plast.dk">info@gravenhorst-plast.dk </a>
     og <a href="mailto:info@scankomposit.dk">info@scankomposit.dk </a> 
  	</p>
+        <p id="mh">website made by <a href="http://michaelhoumann.dk" target="_blank">Michael Houmann</a></p>
 </footer>
     </script>
 

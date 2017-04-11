@@ -534,3 +534,79 @@ footer p {
 #scan {
   background-color: #C3E8C8;
 }
+
+#mh {
+  font-size: 0.1rem;
+  color: #F7F7F7;
+}
+
+#mh a, #mh a:visited, #mh a:active, #mh a:hover {
+  color: #E5E5FF;
+  text-decoration: none;
+}
+
+.tableBox {
+  width:80%;
+  margin: .850em auto;
+  padding: .650em;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+}
+
+.tableBox table {
+  width: 100%;
+}
+
+.tableBox .center {
+  text-align: center;
+}
+
+.embaBox {
+  width: 100%;
+  padding: 0.850em 0;
+}
+
+.embaFotoBox {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.topFoto {
+  width: 32%;
+ }
+
+.topFoto1 {
+  width: 32%;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  padding: .450em;
+
+}
+
+.embaFoto {
+  width: 100%;
+  height: auto;
+}
+
+.buttomFoto {
+  width: 24%;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  padding: .450em;
+
+}
+
+
+
+

@@ -1,5 +1,5 @@
 <?php
-$title = 'Gravenhorst og Scankomposit - Forside';
+$title = 'Gravenhorst Plast A/S - Produkter';
 $description = 'Gravenhorst producere blæsestøbte hule elementer i plastik og Scankomposit producere pressestøbte elementer i SMC glasfiber. Vi hjælper med ideer, innovation og produktion af plast- og glasfiberemner. Virksomheden er samlet i Sandby på midtsjælland.';
 $keywords = 'Plasikfabrik, blæsestøbning, pressestøbning, gravenhorst, scankomposit,';
 $stylesheet ='assets/css/graven-style.css';
@@ -89,6 +89,7 @@ include ('./includes/public-header.php');
 			<p>Gravenhorst Plast A/S producerer, og lagerfører en lang række emballageprodukter fra 125ml flasker til 27,5l dunke.</p><br> 
 			<p>Emballageprodukterne er primært fremstillet til industri- og laboratoriebrug, men kan også anvendes i andre områder.</p><br> 
 			<p>Materialerne, som bliver benyttet til emballage er alle fødevaregodkendte og flere af produkterne er U/N-godkendte til kemikalier.</p><br>
+            <p><a href="./emballage.php">Se Gravenhorst Plast´s lagerprogram</a></p>
 
 		</div>
 	</div>

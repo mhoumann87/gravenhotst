@@ -1,5 +1,5 @@
 <?php
-$title = 'Scankomposit A/S';
+$title = 'Scankomposit A/S - Produkter';
 $description = 'Scankomposit producere pressestøbte elementer i SMC glasfiber. Vi hjælper med ideer, innovation og produktion af plast- og glasfiberemner.';
 $keywords = 'Plasikfabrik, blæsestøbning, pressestøbning, gravenhorst, scankomposit,';
 $stylesheet ='assets/css/scan-style.css';

@@ -521,3 +521,14 @@ footer p {
   font-weight: bold;
 }
 
+
+#mh {
+  font-size: 0.1rem;
+  color: #F7F7F7;
+}
+
+#mh a, #mh a:visited, #mh a:active, #mh a:hover {
+  color: #EBF7EC;
+  text-decoration: none;
+}
+

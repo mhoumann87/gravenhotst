@@ -1,5 +1,5 @@
 <?php
-$title = 'Gravenhorst og Scankomposit - Galleri';
+$title = 'Gravenhorst A/S og Scankomposit A/S - Galleri';
 $description = 'Gravenhorst producere blæsestøbte hule elementer i plastik og Scankomposit producere pressestøbte elementer i SMC glasfiber. Vi hjælper med ideer, innovation og produktion af plast- og glasfiberemner. Virksomheden er samlet i Sandby på midtsjælland.';
 $keywords = 'Plasikfabrik, blæsestøbning, pressestøbning, gravenhorst, scankomposit, galleri, billeder, produkter';
 $stylesheet ='assets/css/faelles_style.css';
