@@ -10,7 +10,7 @@
  	</p>
         <p id="mh">website made by <a href="http://michaelhoumann.dk" target="_blank">Michael Houmann</a></p>
 </footer>
-    </script>
+
 
 
 

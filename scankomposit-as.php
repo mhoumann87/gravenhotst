@@ -18,7 +18,50 @@ include ('./includes/public-header.php');
     
 <main>
 
-	<div id="lampeskaerm" class="produkt">
+    <div id="kk1-stol" class="produkt">
+        <div class="produkt-foto-box">
+            <img src="./assets/img/kk1.jpg" class="produkt-foto" alt="">
+        </div>
+        <div class="produkt-text">
+            <h4>KK1 Stol</h4>
+            <br>
+            <p>Fremstillet i fiberforstærket SMC.</p>
+            <br>
+            <p>Komposit med 32 % glasindhold.</p>
+            <br>
+            <p>Stabilitet og styrke.</p>
+            <br>
+            <p>Understel er i krom.</p>
+            <br>
+            <p>Polstret hynde i god dansk kvalitet.</p>
+            <br>
+            <p>Alt fremstillet og produceret i Danmark.</p>
+            <br>
+            <br>
+            <p>KK1 Stolen er oprindeligt designet i 1955 af arkitekt Kay Kørbing</p>
+    </div>
+    </div>
+    <div id="postkasse" class="produkt">
+        <div class="produkt-foto-box">
+            <img src="./assets/img/postkasse.jpg" class="produkt-foto" alt="">
+        </div>
+
+            <div class="produkt-text">
+                <h4>Postkasse</h4>
+                <br>
+                <p>Glasfiber SMC fiberkomposit med 23 % glasindhold<p><br>
+                <p>Lys grå RAL 7035</p><br>
+                <p>Tåler sol, frost og saltvand</p><br>
+                <p>Særdeles holdbar</p><br>
+                <p>Postkasser som disse har siddet rundt omkring i Danmark i mere en 30 år</p><br>
+                <p> Medfølger 1 stk. Ruko lås med 2 nøgler</p><br>
+                <p>Varenummer 49985</p><br>
+                <p>Mål (h,b,d) 420mm, 395mm, 190mm</p><br>
+                <p>Pris ex. moms kr. 1550,00</p><br>
+            </div>
+    </div>
+
+    <div id="lampeskaerm" class="produkt">
 		<div class="produkt-foto-box">
 			<img src="./assets/img/lampeskaerm.jpg" class="produkt-foto" alt="">
 		</div>
@@ -34,30 +77,7 @@ include ('./includes/public-header.php');
 		</div>
 	</div>
 
-	<div id="kk1-stol" class="produkt">
-		<div class="produkt-foto-box">
-			<img src="./assets/img/kk1.jpg" class="produkt-foto" alt="">
-		</div>
-	
-		<div class="produkt-text">
-			<h4>KK1 Stol</h4>
-			<br>	
-			<p>Fremstillet i fiberforstærket SMC.</p>
-			<br>
-			<p>Komposit med 32 % glasindhold.</p>
-			<br>
-			<p>Stabilitet og styrke.</p>
-			<br>
-			<p>Understel er i krom.</p>
-			<br>
-			<p>Polstret hynde i god dansk kvalitet.</p>
-			<br>
-			<p>Alt fremstillet og produceret i Danmark.</p>
-			<br>
-			<br>
-			<p>KK1 Stolen er oprindeligt designet i 1955 af arkitekt Kay Kørbing</p>
-		</div>
-	</div>
+
 
 	<div id="ventil-gas-skabe" class="produkt">
 		<div class="produkt-foto-box">
@@ -74,20 +94,7 @@ include ('./includes/public-header.php');
 		</div>
 	</div>
 
-	<div id="postkasse" class="produkt">
-		<div class="produkt-foto-box">
-			<img src="./assets/img/postkasse.jpg" class="produkt-foto" alt="">
-		</div>
-	
-		<div class="produkt-text">
-			<h4>Postkasse</h4>
-			<br>	
-			<p>Fremstillet i glasfiber SMC fiberkomposit med 23 % glasindhold. Farven er lys grå 
-			RAL 7035 og tåler sol, frost og saltvand. Særdeles holdbar og vi har postkasser som 
-			disse siddende rundt omkring i Danmark i mere en 30 år. Medfølger 1 stk. Ruko lås med 
-			2 nøgler</p>
-		</div>
-	</div>
+
 
 	<div id="vejbelysning" class="produkt">
 		<div class="produkt-foto-box">

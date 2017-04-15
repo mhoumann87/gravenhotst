@@ -199,47 +199,45 @@ aside {
 }
 header {
   width: 100%;
-  margin: 0;
+  margin: 0 0 2em 0;
   padding: .325rem;
 }
-.logo {
-  width: 100%;
-  max-width: 28.5em;
-  height: auto;
-  float: left;
-}
-.faelles {
-  display: none;
-}
-.graven {
-  display: none;
-}
-.scan {
-  display: block;
-}
+
 .noshow {
   display: none;
 }
-#tagline {
-  clear: both;
-  width: 70%;
-  float: left;
-  padding: 0.325em;
-  margin-top: .325rem;
-  margin-bottom: 0.650rem;
+
+.headerBox {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
 }
-#telefon {
+
+
+.logoBox {
+  width: 20%;
+}
+
+.logo {
+  width: auto;
+  height: 100%;
+  max-height: 75px;
+}
+
+.taglineBox {
+  width: 50%;
+}
+
+
+.phoneBox {
   width: 30%;
-  float: right;
   text-align: right;
-  padding: 0.325em;
-  margin-top: .325rem;
-  margin-bottom: 0.650rem;
 }
-#tagline h2,
-#telefon h2 {
-  font-size: 2rem;
+.phoneBox h2, .taglineBox h2 {
+  font-size: 1.5rem;
 }
+
 #nav {
   width: 100%;
   position: relative;

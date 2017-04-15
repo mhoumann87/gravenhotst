@@ -14,7 +14,7 @@
 <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="<?php echo $stylesheet; ?>">
 <link rel="stylesheet" type="text/css" href="./assets/font-awesome-4.5.0/css/font-awesome.min.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script>
 	//sletter feltet website i kontaktforman, brugen som "honeypot" for at fjerne noget spam
 	$(document).ready(function(e) {
@@ -30,17 +30,30 @@
 <body>
 
 	<header id="header" role="heading">
-    	<img src="./assets/img/faelles_logo.png" class="faelles" class="logo" alt="Gravenhorst og Scankomposit logo">
-        <img src="./assets/img/graven_logo.png" class="graven" class="logo" alt="Gravenhoste Plast A/S logo">
-        <img src="./assets/img/scan_logo.png" class="scan"  class="logo" alt="Scankomposit A/S logo">
+        <div class="headerBox">
+            <?php
+                if ($stylesheet == 'assets/css/faelles_style.css') {
+                  echo '  <div class="logoBox"><img src="./assets/img/faelles_logo_lang.png" class="logo" alt="Gravenhorst og Scankomposit logo"></div>
+                          <div class="teleBox"><h4><i class="fa fa-phone"></i>&nbsp;+45 57 64 33 44</h4></div>
+                    ';
+                } elseif ($stylesheet == 'assets/css/graven-style.css') {
+                    echo '
+                        <div class="logobox"><img src="./assets/img/graven_logo.png"  class="logo" alt="Gravenhoste Plast A/S logo"></div>
+                        <div class="taglineBox"><h4>Blæsestøbte hule emner i plastik</h4></div>
+                        <div class="teleBox"><h4><i class="fa fa-phone"></i>&nbsp;+45 57 64 33 44</h4></div>
+                    ';
+                } else {
+                    echo '
+                        <div class="logobox"><img src="./assets/img/scan_logo.png" class="logo" alt="Scankomposit A/S logo"></div>
+                        <div class="taglineBox"><h4>Pressestøbning i SMC glasfiber</h4></div>
+                        <div class="teleBox"><h4><i class="fa fa-phone"></i>&nbsp;+45 57 64 33 44</h4></div>
+                        ';
+                }
+
+            ?>
+        </div>
+        <h2 class="noshow">Blow molding in plastic. Compression molding in SMC.</h2>
         <h1 class="noshow">Gravenhorst og Scankomposit Plast A/S</h1>
-            <!--<section id="tagline"><h2 class="faelles">Blæsestøbte hule emner i plastik &amp; Pressestøbning i SMC glasfiber</h2>-->
-            <h2 class="graven">Blæsestøbte hule emner i plastik</h2>
-            <h2 class="scan">Pressestøbning i SMC glasfiber</h2>
-            <!--<p>Vi hjælper med ideer, innovation og produktion af plast- og glasfiberemner</p>-->
-            <h2 class="noshow">Blow molding in plastic. Compression molding in SMC.</h2>
-            </section>
-    		<section id="telefon"><h2><i class="fa fa-phone"></i>   +45 57 64 33 44</h2></section>
     </header>
     
        		

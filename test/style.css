@@ -1,0 +1,33 @@
+body {
+    width: 100%;
+}
+
+header {
+    width: 100%;
+    background-color: pink;
+    overflow: hidden;
+    margin: 0;
+
+}
+
+.headerBox {
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.headerBox img {
+    width: 100%;
+    height: auto;
+    max-width: 850px; 
+
+}
+
+headerContent {
+    width: 30%;
+    background: maroon;
+    padding: 20px;
+    overflow: hidden;
+}

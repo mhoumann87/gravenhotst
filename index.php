@@ -22,8 +22,12 @@ include ('./includes/public-header.php');
 		<div class="fotobox" id="graven">
 			<h4>Gravenhorst A/S</h4>
 			<h4>Blæsestøbning i plast og polypropylen.PP</h4>
-			<div class="slider">				
-    		<img src="assets/img/test1.jpg" class=slider-foto alt="" />
+			<div id="gravenSlider" class="slider">
+    		    <img src="./assets/img/cover.jpg" class=slider-foto alt="">
+                <img src="./assets/img/stole.jpg" class=slider-foto alt="">
+                <img src="./assets/img/tekniske.jpg" class=slider-foto alt="">
+                <img src="./assets/img/vejpael.jpg" class=slider-foto alt="">
+                <img src="./assets/img/emballage.jpg" class=slider-foto alt="">
 			</div>
 			<div class="beskriv-text">
 				<h6>Gravenhorst Plast tilbyder:</h6><br>
@@ -74,8 +78,14 @@ include ('./includes/public-header.php');
 				<div class="fotobox" id="scan">
 			<h4>Scankomposit A/S</h4>
 			<h4>Pressestøbning i SMC</h4>
-			<div class="slider">				
-    		<img src="assets/img/test1.jpg" class=slider-foto alt="" />
+			<div id="scanSlider" class="slider">
+    		    <img src="./assets/img/kk1.jpg" class=slider-foto alt="" />
+                <img src="./assets/img/postkasse.jpg" class=slider-foto alt="" />
+                <img src="./assets/img/udelampe.jpg"  class=slider-foto alt="" />
+                <img src="./assets/img/gas.jpg" class=slider-foto alt="" />
+                <img src="./assets/img/lysamatur.jpg" class=slider-foto alt="" />
+                <img src="./assets/img/scantek.jpg" class=slider-foto alt="" />
+                <img src="./assets/img/bakelit.jpg" class=slider-foto alt="" />
 			</div>
 			<div class="beskriv-text">
 				<h6>Scankomposit tilbyder:</h6><br>

@@ -1,3 +1,13 @@
+$(document).ready(function(){
+    //sætter doubleTab scriptet til kun at virke på li poster med underliggende menu
+    $( '#nav li:has(ul)' ).doubleTapToGo();
+
+    	rotatePicsGraven(1);
+    	rotatePicsScan(1);
+
+});
+
+
 //script til at validere kontaktformen, og sende resultatet til php
 
 
@@ -54,22 +64,42 @@ function validateContact() {
 	return valid;
 }
 
-//sætter doubleTab scriptet til kun at virke på li poster med underliggende menu
 
-	$( '#nav li:has(ul)' ).doubleTapToGo();
+function rotatePicsGraven(currentPhoto) {
 
-//google-maps api
-function initMap() {
-	var scan = {lat: 55.380473, lng: 11.743838};
-	
-	var map = new google.maps.Map(document.getElementById('map'), {
-		zoom: 15,
-		center: scan
-	});
-	
-	var marker = new google.maps.Marker({
-		position: scan,
-		map: map
-	});
-	
-}
+var numberOfPhotos = $('#gravenSlider img').length;
+
+currentPhoto = currentPhoto % numberOfPhotos;
+
+$('#gravenSlider img').eq(currentPhoto).fadeOut(function() {
+    $('#gravenSlider img').each(function(i) {
+        $(this).css(
+            'zIndex', ((numberOfPhotos - i ) + currentPhoto) % numberOfPhotos
+        );
+    });
+    $(this).show();
+    setTimeout(function() {rotatePicsGraven(++currentPhoto);}, 5000);
+});
+
+}//rotatePicsGravem
+
+function rotatePicsScan(currentPhoto) {
+
+    var numberOfPhotos = $('#scanSlider img').length;
+
+    currentPhoto = currentPhoto % numberOfPhotos;
+
+    $('#scanSlider img').eq(currentPhoto).fadeOut(function() {
+        $('#scanSlider img').each(function(i) {
+            $(this).css(
+                'zIndex', ((numberOfPhotos - i ) + currentPhoto) % numberOfPhotos
+            );
+        });
+        $(this).show();
+        setTimeout(function() {rotatePicsScan(++currentPhoto);}, 4000);
+    });
+
+}//rotatePicsScan
+
+
+
