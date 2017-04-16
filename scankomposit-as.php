@@ -87,9 +87,11 @@ include ('./includes/public-header.php');
 		<div class="produkt-text">
 			<h4>Ventil- og gasskabe</h4>
 			<br>	
-			<p>Fremstillet i SMC kompositmateriale som er særdeles vejrbestandigt.</p>
-			<p>Slagfast og særdeles holdbart.</p>
-			<p>Alle dele incl. de galvaniserede aluminium bøjler der medfølger er fremstillet i Danmark</p>
+			<p>Fremstillet i SMC kompositmateriale.</p><br>
+            <p>Særdeles vejrbestandigt.</p><br>
+			<p>Slagfast og særdeles holdbart.</p><br>
+			<p>Alle dele incl. de galvaniserede aluminium bøjler der medfølger er fremstillet i Danmark</p><br>
+            <a href="./gas_og_fjernvarmeskabe.php">Se alle modeller med mål</a>
 
 		</div>
 	</div>

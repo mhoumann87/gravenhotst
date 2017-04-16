@@ -194,10 +194,10 @@ include ('./includes/public-header.php');
 
     <div class="embaBox">
         <div class="embaFotoBox">
-            <div class="buttomFoto"><img src="" class="embaFoto" alt="Billeder af vores emballage lager program"></div>
-            <div class="buttomFoto"><img src="" class="embaFoto" alt="Billeder af vores emballage lager program"></div>
-            <div class="buttomFoto"><img src="" class="embaFoto" alt="Billeder af vores emballage lager program"></div>
-            <div class="buttomFoto"><img src="" class="embaFoto" alt="Billeder af vores emballage lager program"></div>
+            <div class="buttomFoto"><img src="./assets/img/beholder1.jpg" class="embaFoto" alt="Billeder af vores emballage lager program"></div>
+            <div class="buttomFoto"><img src="./assets/img/dunk1.jpg" class="embaFoto" alt="Billeder af vores emballage lager program"></div>
+            <div class="buttomFoto"><img src="./assets/img/flaske1.jpg" class="embaFoto" alt="Billeder af vores emballage lager program"></div>
+            <div class="buttomFoto"><img src="./assets/img/dunk2.jpg" class="embaFoto" alt="Billeder af vores emballage lager program"></div>
 
         </div>
     </div>

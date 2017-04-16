@@ -530,3 +530,51 @@ footer p {
   text-decoration: none;
 }
 
+.mainBox {
+  width: 90%;
+  margin: 2em auto;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: baseline;
+  }
+
+.skabHeadline {
+  margin: 1em;
+}
+
+.skabBox {
+  width: 49%;
+  margin-top: 1em;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: baseline;
+  background-color: #C3E8C8;
+  padding: .350em;
+   -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  -moz-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+  box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
+}
+
+.skabFoto {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+.skabText {
+  width: 100%;
+}
+
+.fotoSkab {
+  width: auto;
+  height: 100%;
+  max-height: 400px;
+  display: block;
+  margin: 0 auto;
+}
+

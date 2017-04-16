@@ -557,6 +557,7 @@ footer p {
 
 .tableBox table {
   width: 100%;
+  background-color: #CCCCFE;
 }
 
 .tableBox .center {
@@ -565,7 +566,7 @@ footer p {
 
 .embaBox {
   width: 100%;
-  padding: 0.850em 0;
+  padding: 0.850em;
 }
 
 .embaFotoBox {
@@ -587,12 +588,16 @@ footer p {
   -moz-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
   box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
   padding: .450em;
+  background-color: #CCCCFE;
 
 }
 
 .embaFoto {
   width: 100%;
   height: auto;
+  max-width: 250px;
+  display: block;
+  margin: 0 auto;
 }
 
 .buttomFoto {
@@ -603,6 +608,7 @@ footer p {
   -moz-box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
   box-shadow: 6px 6px 16px -5px rgba(0, 0, 0, 0.58);
   padding: .450em;
+  background-color: #CCCCFE;
 
 }
 
