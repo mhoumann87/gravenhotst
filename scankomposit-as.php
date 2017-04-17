@@ -61,24 +61,6 @@ include ('./includes/public-header.php');
             </div>
     </div>
 
-    <div id="lampeskaerm" class="produkt">
-		<div class="produkt-foto-box">
-			<img src="./assets/img/lampeskaerm.jpg" class="produkt-foto" alt="">
-		</div>
-	
-		<div class="produkt-text">
-			<h4>Lampeskærm</h4>
-			<br>	
-			<p>Københavner Potten, skærm til lamper i gaderne, lavet i vejrbestandig SMC 
-			glasfiber, holdbart op til 30 år i alt slags vejr fra ekstrem varme til ekstrem 
-			kulde. Et fantastisk kvalitetsprodukt der bla. har hængt i København som 
-			gadebelysning i mere end 30 år. Københavner Potten laves i flere farver men 
-			samme gode kvalitet – danskproduceret.</p>
-		</div>
-	</div>
-
-
-
 	<div id="ventil-gas-skabe" class="produkt">
 		<div class="produkt-foto-box">
 			<img src="./assets/img/gas.jpg" class="produkt-foto" alt="">
@@ -104,7 +86,17 @@ include ('./includes/public-header.php');
 		</div>
 	
 		<div class="produkt-text">
-			<h4>Vejbelysning</h4>
+			<h4>Vejbelysning</h4><br>
+            <p>Københavner Potten</p><br>
+            <p>Skærm til lamper i gaderne.</p><br>
+            <p>Lavet i vejrbestandig SMC glasfiber.</p><br>
+            <p>Holdbart op til 30 år i alt slags vejr fra ekstrem varme til ekstrem
+                kulde.</p><br>
+            <p>Et fantastisk kvalitetsprodukt der bla. har hængt i København som
+                gadebelysning i mere end 30 år.</p><br>
+            <p>Københavner Potten laves i flere farver men samme gode kvalitet</p><br>
+            <p>Danskproduceret.</p><br>
+            <a href="./vejbelysning.php">Se fuldt program</a>
 			<br>	
 
 
@@ -119,8 +111,9 @@ include ('./includes/public-header.php');
 		<div class="produkt-text">
 			<h4>Lysamatur</h4>
 			<br>	
-			<p>Fremstillet i fiberforstærket SMC komposit i flere forskellige størrelser med 
-			diverse længder. Amaturerne kan også presses i en brandhæmmende komposit som 
+			<p>Fremstillet i fiberforstærket SMC komposit.</p><br>
+            <p>Flere forskellige størrelser med	diverse længder.</p><br>
+            <p>Amaturerne kan også presses i en brandhæmmende komposit som
 			benyttes på skibe mv.</p>
 
 		</div>

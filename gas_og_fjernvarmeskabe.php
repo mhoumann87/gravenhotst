@@ -27,7 +27,7 @@ include ('./includes/public-header.php');
             <div class="skabText">
                 <h6>Håndoplagt Stikindføringsskab</h6><br>
                 <p>(hxbxd) 825x340x190 mm</p><br>
-                <p>Varenr. 49950</p>
+                <p>Varenr. 49950</p><br><br>
             </div>
         </div>
         <div class="skabBox">
@@ -65,6 +65,9 @@ include ('./includes/public-header.php');
 
             </div>
         </div>
+    </div>
+    <div class="center">
+    <a href="./scankomposit-as.php">Tilbage til Scankomposit A/s</a>
     </div>
 </main>
 
