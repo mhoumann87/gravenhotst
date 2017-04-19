@@ -18,42 +18,43 @@ include ('./includes/public-header.php');
     
 <main>
 	<div class="galleri">
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
 
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
+        <?php
 
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
+        //hent billederne i databasen
 
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
+        $query = "SELECT * FROM photos";
+        $result = mysqli_query($forbind, $query);
+        $num = mysqli_num_rows($result);
 
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
+        if ($num > 0) {
 
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
+            while ($row = mysqli_fetch_assoc($result)) {
 
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
+                if ($row['photo_alt'] === null) {
+                    $alt = 'Billeder af vores produkter og lokaler';
+                } else {
+                    $alt = $row['photo_alt'];
+                }
 
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
+                if ($row['photo_format'] == 1) {
+                    $class='fotoBredt';
+                } else {
+                    $class = 'fotoHojt';
+                }
 
-		<div class="gallery-box">
-			<img src="assets/img/test2.jpg" class="galleri-foto" alt="">
-		</div>
+                echo '
+                    <div class="gallery-box">
+			            <img src="./assets/img/uploads/'.$row['photo_link'].'" class="'.$class.'" alt="'.$alt.'">
+	            	</div>
 
+                
+                ';
+
+        }
+
+        }
+        ?>
 
 	</div>
 

@@ -1,5 +1,6 @@
 <?php 
 	require_once('funktioner.php');
+	require_once ('forbindelse.php');
 ?>	
 
 <!doctype html>

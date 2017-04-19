@@ -537,7 +537,7 @@ label {
     }
   
   .gallery-box {
-    width: 19%;
+    width: 24%;
     padding: .650rem;
     margin-top: .650rem;
     margin-right: .650rem;
@@ -550,11 +550,21 @@ label {
     border-radius: 10px
   }
 
-  .galleri-foto {
-    width:100%;
-    height: auto;
-    max-width: 400px;
-  } 
+ .fotoBredt {
+   width: 100%;
+   height: auto;
+   max-width: 350px;
+   display: block;
+   margin: 0 auto;
+ }
+
+ .fotoHojt {
+   width: auto;
+   height: 100%;
+   max-height: 350px;
+   display: block;
+   margin: 0 auto;
+ }
 
 /*Footer*/
 
